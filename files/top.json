@@ -2,21 +2,151 @@
   {
     "id": 455652438,
     "name": "Тинькофф (Т-Банк)",
-    "domain": "tbank.ru"
+    "domain": "tbank.ru",
+    "category": "Банки и финансы"
   },
   {
     "id": 492224193,
     "name": "Сбербанк Онлайн",
-    "domain": "www.sberbank.ru"
+    "domain": "www.sberbank.ru",
+    "category": "Банки и финансы"
   },
   {
     "id": 353127685,
     "name": "Альфа-Банк",
-    "domain": "www.sberbank.ru"
+    "domain": "alfabank.ru",
+    "category": "Банки и финансы"
   },
   {
     "id": 6749962031,
     "name": "ВТБ (Сириус)",
-    "domain": "vtb.ru"
+    "domain": "vtb.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 6754700095,
+    "name": "ПСБ (Промсвязьбанк)",
+    "domain": "www.psbank.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 6755891115,
+    "name": "Газпромбанк (Цифровой сейф)",
+    "domain": "gazprombank.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 1626988399,
+    "name": "Совкомбанк (ВсеКарты MDS)",
+    "domain": "sovcombank.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 1641088465,
+    "name": "МКБ (К Деньгам)",
+    "domain": "mkb.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 979116495,
+    "name": "Почта Банк",
+    "domain": "pochtabank.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 6447505026,
+    "name": "Уралсиб (QRal)",
+    "domain": "uralsib.ru",
+    "category": "Банки и финансы"
+  },
+  {
+    "id": 6739530834,
+    "name": "MAX",
+    "domain": "max.ru",
+    "category": "Общение и социальные сети"
+  },
+  {
+    "id": 564177498,
+    "name": "ВКонтакте",
+    "domain": "vk.com",
+    "category": "Общение и социальные сети"
+  },
+  {
+    "id": 1441659687,
+    "name": "VK Мессенджер",
+    "domain": "vk.com",
+    "category": "Общение и социальные сети"
+  },
+  {
+    "id": 398465290,
+    "name": "Одноклассники",
+    "domain": "ok.ru",
+    "category": "Общение и социальные сети"
+  },
+  {
+    "id": 1467719381,
+    "name": "Маруся",
+    "domain": "marusia.mail.ru",
+    "category": "Общение и социальные сети"
+  },
+  {
+    "id": 6447614666,
+    "name": "VK Видео",
+    "domain": "vkvideo.ru",
+    "category": "Видео, музыка и контент"
+  },
+  {
+    "id": 1054372220,
+    "name": "VK Музыка",
+    "domain": "music.vk.com",
+    "category": "Видео, музыка и контент"
+  },
+  {
+    "id": 1343242452,
+    "name": "Дзен",
+    "domain": "dzen.ru",
+    "category": "Видео, музыка и контент"
+  },
+  {
+    "id": 966511294,
+    "name": "Rutube",
+    "domain": "rutube.ru",
+    "category": "Видео, музыка и контент"
+  },
+  {
+    "id": 511310430,
+    "name": "Почта Mail.ru",
+    "domain": "mail.ru",
+    "category": "Почта и облако"
+  },
+  {
+    "id": 696551382,
+    "name": "Облако Mail.ru",
+    "domain": "cloud.mail.ru",
+    "category": "Почта и облако"
+  },
+  {
+    "id": 417281773,
+    "name": "Авито",
+    "domain": "avito.ru",
+    "category": "Объявления, покупки и доставка"
+  },
+  {
+    "id": 1016489154,
+    "name": "Юла",
+    "domain": "youla.ru",
+    "category": "Объявления, покупки и доставка"
+  },
+  {
+    "id": 6505025679,
+    "name": "Купер (СберМаркет)",
+    "domain": "kuper.ru",
+    "category": "Объявления, покупки и доставка"
+  },
+  {
+    "id": 1195015982,
+    "name": "РЖД Пассажирам",
+    "domain": "rzd.ru",
+    "category": "Транспорт и путешествия"
   }
 ]
